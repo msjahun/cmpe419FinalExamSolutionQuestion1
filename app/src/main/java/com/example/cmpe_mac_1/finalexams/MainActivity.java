@@ -16,7 +16,8 @@ EditText editTextCurrencyAmount;
 RadioGroup radioGroupFrom;
 RadioGroup radioGroupTo;
 TextView textViewResult;
-Boolean ConvertFrom, ConvertTo;
+Boolean ConvertFrom = true;
+Boolean  ConvertTo=true;
 double exchangeRate1DollarToTl =4.36;
 //tl =0 usd =1
 
