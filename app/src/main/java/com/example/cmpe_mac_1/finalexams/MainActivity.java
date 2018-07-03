@@ -20,7 +20,8 @@ Boolean ConvertFrom = true;
 Boolean  ConvertTo=true;
 double exchangeRate1DollarToTl =4.36;
 //tl =0 usd =1
-
+int k =10;
+//This is the new features branch;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
